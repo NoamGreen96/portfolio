@@ -1,7 +1,7 @@
 // Tablet
 @media screen and (max-width: 1024px) {
   .container {
-    width: var(conainer-width-md);
+    width: var(--container-width-md);
   }
 
   section {
@@ -12,7 +12,7 @@
 // Mobile
 @media screen and (max-width: 600px) {
   .container {
-    width: var(conainer-width-sm);
+    width: var(--container-width-sm);
   }
 
   section > h2 {
