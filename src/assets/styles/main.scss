@@ -1,17 +1,14 @@
 // Setup
 @import "setup/_variables.scss";
-// @import "setup/functions";
-// @import "setup/mixins";
 
 // Basics
 @import "basics/typography";
 @import "basics/base";
-// @import "basics/helpers";
 @import "basics/layout";
-// @import "basics/modals";
 
 // Views
 
 // Components
-@import "cmps/_contacts.scss";
-@import "cmps/_about.scss";
+@import "cmps/_contacts";
+@import "cmps/header";
+@import "cmps/about";

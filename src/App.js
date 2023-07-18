@@ -1,4 +1,4 @@
-import { Header } from './cmps/Header'
+import { Header } from './cmps/header/Header'
 import { Nav } from './cmps/Nav'
 import { About } from './cmps/About'
 import { Experince } from './cmps/Experince'
