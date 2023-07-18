@@ -2,6 +2,6 @@ export function Contact() {
 
 
   return (
-    <section id="contact">Contact</section>
+    <section id="contact">Contacts</section>
   )
 }

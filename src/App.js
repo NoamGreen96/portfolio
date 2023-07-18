@@ -6,6 +6,7 @@ import { Portfolio } from './cmps/portfolio/Portfolio'
 import { Testimonials } from './cmps/Testimonials'
 import { Contact } from './cmps/contact/Contact'
 import { Footer } from './cmps/Footer'
+import { Services } from './cmps/Services'
 
 
 export default function App() {
@@ -18,6 +19,7 @@ export default function App() {
       <Portfolio />
       <Testimonials />
       <Contact />
+      <Services />
       <Footer />
     </div>
   );
