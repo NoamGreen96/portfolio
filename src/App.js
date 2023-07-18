@@ -16,10 +16,10 @@ export default function App() {
       <Nav />
       <About />
       <Experince />
+      <Services />
       <Portfolio />
       <Testimonials />
       <Contact />
-      <Services />
       <Footer />
     </div>
   );
