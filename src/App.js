@@ -1,10 +1,10 @@
 import { Header } from './cmps/header/Header'
-import { Nav } from './cmps/Nav'
-import { About } from './cmps/About'
-import { Experince } from './cmps/Experince'
-import { Portfolio } from './cmps/Portfolio'
+import { Nav } from './cmps/nav/Nav'
+import { About } from './cmps/about/About'
+import { Experince } from './cmps/experience/Experince'
+import { Portfolio } from './cmps/portfolio/Portfolio'
 import { Testimonials } from './cmps/Testimonials'
-import { Contacts } from './cmps/Contacts'
+import { Contact } from './cmps/contact/Contact'
 import { Footer } from './cmps/Footer'
 
 
@@ -17,9 +17,8 @@ export default function App() {
       <Experince />
       <Portfolio />
       <Testimonials />
-      <Contacts />
+      <Contact />
       <Footer />
-
     </div>
   );
 }

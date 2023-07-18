@@ -2,6 +2,6 @@ export function Services() {
 
 
   return (
-    <h1>Services</h1>
+    <section className="services">Services</section>
   )
 }

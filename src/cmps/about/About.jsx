@@ -2,6 +2,6 @@ export function About() {
 
 
   return (
-    <h1>about</h1>
+    <section id="about">About</section>
   )
 }

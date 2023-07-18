@@ -2,6 +2,6 @@ export function Portfolio() {
 
 
   return (
-    <h1>Portfolio</h1>
+    <section id="portfolio">Portfolio</section>
   )
 }
