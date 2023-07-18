@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import { Header } from './cmps/Header'
+import { Nav } from './cmps/Nav'
+import { About } from './cmps/About'
+import { Experince } from './cmps/Experince'
+import { Portfolio } from './cmps/Portfolio'
+import { Testimonials } from './cmps/Testimonials'
+import { Contacts } from './cmps/Contacts'
+import { Footer } from './cmps/Footer'
 
-function App() {
+
+export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <Nav />
+      <About />
+      <Experince />
+      <Portfolio />
+      <Testimonials />
+      <Contacts />
+      <Footer />
+
     </div>
   );
 }
 
-export default App;
