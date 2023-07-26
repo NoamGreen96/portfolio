@@ -2,6 +2,8 @@
 
 This is a portfolio website template built using the React framework and styled with Sass (Syntactically Awesome Style Sheets). It is designed to showcase your skills, projects, and experiences in a visually appealing manner. The website is responsive and works seamlessly across various devices.
 
+![Screenshot](/src/assets/img/README.pic.png)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -61,7 +63,7 @@ To customize the content of your portfolio website, modify the relevant componen
 
 ### Styling
 
-The styling of the website can be customized by modifying the Sass files. The main Sass file is located at `src/styles/main.scss`, and you can import additional stylesheets in this file as needed. The `variables.scss` file contains various variables that can be adjusted to change colors, fonts, and other design elements.
+The styling of the website can be customized by modifying the Sass files. The main Sass file is located at `src/assets/styles/main.scss`, and you can import additional stylesheets in this file as needed. The `variables.scss` file contains various variables that can be adjusted to change colors, fonts, and other design elements.
 
 ### Theme
 
