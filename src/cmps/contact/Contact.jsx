@@ -35,20 +35,22 @@ export function Contact() {
             <h5>Noamgr11@gmail.com</h5>
             <a href="mailto:Noamgr11@gmail.com" target='_blank'>Send a massage</a>
           </article>
+          
           <article className="contact-option">
             <RiMessengerLine className='conatct-option-icon' />
             <h4>Messenger</h4>
             <h5>Noam Green</h5>
             <a href="http://m.me/noam.green.420/" target='_blank'>Send a massage</a>
           </article>
+        
           <article className="contact-option">
             <BsWhatsapp className='conatct-option-icon' />
             <h4>WhatsApp</h4>
             <h5>+972 50 7645 379</h5>
-            <a href="https://api.whatsapp.com/send?phone=+972507645379" target='_blank'>Send a massage</a>
+            <a href="https://wa.me/+972507645379 " target='_blank'>Send a massage</a>
           </article>
+        
         </div>
-
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Your Full Name' required
           />
@@ -57,8 +59,8 @@ export function Contact() {
           ></textarea>
           <button type='submin' className='btn btn-primary'>Send Message</button>
         </form>
-
       </div>
+
     </section>
   )
 }

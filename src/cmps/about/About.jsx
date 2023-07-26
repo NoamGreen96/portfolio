@@ -4,7 +4,6 @@ import { VscFolderLibrary } from 'react-icons/vsc'
 
 export function About() {
 
-
   return (
     <section id="about">
       <h5>Get To Know</h5>
@@ -21,19 +20,19 @@ export function About() {
           <div className="about-cards">
             <article className='about-card'>
               <FaAward className='about-icon' />
-              <h5>Experience</h5>
-              <small>BootCamp cartificent</small>
+              <h5>Cartificent</h5>
+              <small>Coding Academy Bootcamp</small>
 
             </article>
 
             <article className='about-card'>
               <VscFolderLibrary className='about-icon' />
               <h5>Projects</h5>
-              <small>3 completed</small>
+              <small>6+ completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem ullam blanditiis, minima sed aperiam quod, consectetur ipsa sint illum doloremque amet aspernatur enim veritatis, quia suscipit natus? Eum, molestiae aspernatur.</p>
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <p>I am a versatile Frontend | Full Stack Web Developer with desiere in cutting-edge technologies like React.js, Redux, Node.js, and MongoDB. With a target-focused approach,  
+            efficiently managing states using Redux and crafting UI with latest technologies</p>
         </div>
       </div>
     </section>

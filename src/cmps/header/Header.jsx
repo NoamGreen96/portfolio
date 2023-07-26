@@ -7,11 +7,13 @@ export function Header() {
   return (
     <header>
       <div className="container header-container">
-        <h5>Hello I'm</h5>
+        <h2>Hello I'm</h2>
         <h1>Noam Green</h1>
-        <h5 className="text-light">Full Stack Developer</h5>
+        <h3 className="text-light">Full Stack Developer</h3>
         <CTA />
-        <HeaderSocial />
+        <div className='icon-container'>
+          <HeaderSocial />
+        </div>
         <div className='me'>
           <img src={ME} alt="" />
         </div>

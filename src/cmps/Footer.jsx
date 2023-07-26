@@ -1,4 +1,5 @@
-import { FaFacebookF } from 'react-icons/fa'
+import { BsLinkedin } from 'react-icons/bs'
+import { FaFacebookF, FaGithub } from 'react-icons/fa'
 import { FiInstagram } from 'react-icons/fi'
 
 export function Footer() {
@@ -21,8 +22,16 @@ export function Footer() {
         <a href="https://www.facebook.com/noam.green.420/">
           <FaFacebookF />
         </a>
-        <a href="https://www.instagram.com/">
+        <a href="https://www.instagram.com/noam_green/">
           <FiInstagram />
+        </a>
+        <a href="https://www.linkedin.com/in/noamgr/"
+        target="_blank" title='linkedin'>
+        <BsLinkedin />
+      </a>
+      <a        href="https://github.com/NoamGreen96"
+        target="_blank" title='github'>
+        <FaGithub />
         </a>
       </div>
 

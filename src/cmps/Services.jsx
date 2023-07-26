@@ -1,8 +1,6 @@
 import { BiCheck } from 'react-icons/bi'
 
 export function Services() {
-
-
   return (
     <section id="services">
       <h5>What I Offer</h5>
@@ -16,23 +14,23 @@ export function Services() {
           <ul className='service-list'>
             <li>
               <BiCheck className='service-list-icon' />
-              <p>Lorem ipsum dolor sit amet  adipisicing elit.</p>
+              <p>Custom Web App Development</p>
             </li>
             <li>
               <BiCheck className='service-list-icon' />
-              <p>Lorem ipsum dolor sit amet  adipisicing elit.</p>
+              <p>Responsive Front-End Design</p>
             </li>
             <li>
               <BiCheck className='service-list-icon' />
-              <p>Lorem ipsum dolor sit amet  adipisicing elit.</p>
+              <p>Database Management</p>
             </li>
             <li>
               <BiCheck className='service-list-icon' />
-              <p>Lorem ipsum dolor sit amet  adipisicing elit.</p>
+              <p>API Development & Integration</p>
             </li>
             <li>
               <BiCheck className='service-list-icon' />
-              <p>Lorem ipsum dolor sit amet  adipisicing elit.</p>
+              <p>Performance Optimization</p>
             </li>
           </ul>
         </div>

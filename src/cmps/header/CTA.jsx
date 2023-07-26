@@ -1,8 +1,6 @@
 import CV from '../../assets/img/cv.pdf'
 
 export function CTA() {
-
-
   return (
     <div className="cta">
 

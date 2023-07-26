@@ -14,7 +14,7 @@ export function Experince() {
             <article className="experience-details">
               <BsPatchCheckFill className='experience-details-icon' />
               <div>
-                <h4>HTML</h4>
+                <h4>HTML5</h4>
                 <small className='text-light'>Expreinced</small></div>
             </article>
             <article className="experience-details">
@@ -34,14 +34,14 @@ export function Experince() {
             <article className="experience-details">
               <BsPatchCheckFill className='experience-details-icon' />
               <div>
-                <h4>Bootstrap</h4>
+                <h4>React</h4>
                 <small className='text-light'>Expreinced</small>
               </div>
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className='experience-details-icon' />
               <div>
-                <h4>Vue</h4>
+                <h4>Vue.js</h4>
                 <small className='text-light'>Expreinced</small>
               </div>
             </article>
@@ -49,6 +49,13 @@ export function Experince() {
               <BsPatchCheckFill className='experience-details-icon' />
               <div>
                 <h4>Angular</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className='experience-details-icon' />
+              <div>
+                <h4>Redux</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -69,16 +76,15 @@ export function Experince() {
             <article className="experience-details">
               <BsPatchCheckFill className='experience-details-icon' />
               <div>
-                <h4>Mongo DB</h4>
-                <small className='text-light'>Expreinced</small>
+                <h4>Express.js</h4>
+                <small className='text-light'>Basic</small>
               </div>
-
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className='experience-details-icon' />
               <div>
-                <h4>PHP</h4>
-                <small className='text-light'>Intermediate</small>
+                <h4>Mongo DB</h4>
+                <small className='text-light'>Expreinced</small>
               </div>
             </article>
             <article className="experience-details">

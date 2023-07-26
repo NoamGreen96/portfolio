@@ -17,6 +17,7 @@
     text-align: center;
     border: 1px solid transparent;
     transition: var(--transition);
+  
     &:hover {
       background-color: transparent;
       border-color: var(--color-primary-variant);
@@ -39,6 +40,9 @@ form {
   display: flex;
   flex-direction: column;
   gap: 1.2rem;
+  button{
+    align-self: center;
+    }
   input,
   textarea {
     width: 100%;
