@@ -2,8 +2,6 @@
 
 This is a portfolio website template built using the React framework and styled with Sass (Syntactically Awesome Style Sheets). It is designed to showcase your skills, projects, and experiences in a visually appealing manner. The website is responsive and works seamlessly across various devices.
 
-![Screenshot](/src/assets/img/README.pic.png)
-
 ## Table of Contents
 
 - [Features](#features)
@@ -73,10 +71,8 @@ You can easily change the color scheme and overall theme of the website by updat
 
 Contributions to this project are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please create an issue or submit a pull request.
 
-Before contributing, make sure to review the [Contributing Guidelines](CONTRIBUTING.md) for detailed instructions.
-
 ## License
 
-This portfolio template is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
+This portfolio template is open-source and available. Feel free to use, modify, and distribute it.
 
 ---
